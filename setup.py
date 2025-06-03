@@ -10,12 +10,12 @@ setup(
     description="Campos e storages criptografados para o Django.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/D3NKYT0/django-encrypted-fields",
+    url="https://github.com/jrompani/django-encrypted-fields",
     project_urls={
-        "Source": "https://github.com/D3NKYT0/django-encrypted-fields",
-        "Homepage": "https://denky.dev.br/django-encrypted-fields",
-        "Documentation": "https://github.com/D3NKYT0/django-encrypted-fields/wiki",
-        "Issue Tracker": "https://github.com/D3NKYT0/django-encrypted-fields/issues",
+        "Source": "https://github.com/jrompani/django-encrypted-fields",
+        "Homepage": "https://localhost/django-encrypted-fields",
+        "Documentation": "https://github.com/jrompani/django-encrypted-fields/wiki",
+        "Issue Tracker": "https://github.com/jrompani/django-encrypted-fields/issues",
     },
     classifiers=[
         "Framework :: Django",
